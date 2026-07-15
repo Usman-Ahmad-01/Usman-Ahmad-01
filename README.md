@@ -1,6 +1,15 @@
+<div align="center">
+
 # Hi, I'm Usman Ahmad 👋
 
 ### Mechatronics & Embedded Systems Engineer | Turning Control Theory into Working Hardware
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-ahmad-mc307)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:usmanahmad1079@gmail.com)
+
+</div>
+
+---
 
 ## About Me
 
