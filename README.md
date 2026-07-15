@@ -27,6 +27,9 @@
 
 ## 🧰 Tech Stack
 
+**Languages**
+![C] ![C++] ![Embedded C] ![Python]
+
 **Embedded & Firmware**
 
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
