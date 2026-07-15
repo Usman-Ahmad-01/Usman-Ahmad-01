@@ -67,7 +67,6 @@
 *(Swap in your actual repo names/URLs once each project is uploaded — these are suggested slugs.)*
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
 ![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usman-Ahmad-01&show_icons=true&theme=default&hide_border=true)
