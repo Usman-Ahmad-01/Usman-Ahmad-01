@@ -70,8 +70,8 @@
 
 <div align="center">
 
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true)
+![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usman-Ahmad-01&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Ahmad-01&layout=compact&hide_border=true)
 
 </div>
 
